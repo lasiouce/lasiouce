@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lasiouce
 - 👀 I’m interested in software dev, voting app, blockchain & others ... 
 - 🌱 I’m currently learning java, python ...
-- 📫 How to reach me : tanguy.brousseau@gmail.com
+- 📫 How to reach me : tanguy.brousseau@gmail.com & www.linkedin.com/in/tanguy-brousseau-82a360bb
+
 
 <!---
 lasiouce/lasiouce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
